@@ -22,7 +22,7 @@ A simple yet effective **Email Validator** built using **HTML, CSS, and JavaScri
 3. Displays a success message if valid, or an error message if invalid.  
 
 ## 📷 Preview  
-![Email Validator Preview](image.png)
+![Email Validator Preview](image.png.png)
 
 ## 📂 Installation & Usage  
 1. Clone this repository:  
